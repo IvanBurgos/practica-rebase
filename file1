@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+Hello world from git
+Esta es una prueba 
+En github
+Este archivo ha sido modificado
+Desde otra cuenta de git
+Modificando para prueba con .gitignore
+=======
+Hello world from git
+Esta es una prueba 
+Linea agregada por la rama release_12.21
+Linea agregada por la rama 
+>>>>>>> 123ed984b9906527187885b13f34e8a13277681b
